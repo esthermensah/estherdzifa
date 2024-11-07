@@ -52,8 +52,8 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: MSc. Electrical and Computer Engineering
+    institution: Carnegie Mellon Univerisity
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
