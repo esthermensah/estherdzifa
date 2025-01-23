@@ -3,7 +3,7 @@
 title: Esther Dzifa
 
 # Name pronunciation (optional)
-name_pronunciation: "Dzi" as in -Gi-raffe
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Esther Dzifa
