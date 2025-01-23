@@ -33,19 +33,22 @@ profiles:
   - icon: at-symbol
     url: 'mailto:edmworkmail@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/esthermensah
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/edmensah/
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/
+  - icon: brands/youtube
+    url: https://www.youtube.com/@growingwithDzidzi
   - icon: academicons/orcid
     url: https://orcid.org/0009-0000-0685-4013
 
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
+  
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
 interests:
   - Networking
   - Cloud Computing
